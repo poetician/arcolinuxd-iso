@@ -8,7 +8,7 @@ Initial config only. Issues will come and go.
 
 Application(s) required for this edition not normally in an ArcoLinux ISO: CherryTree
 
-Issues so far: Kdenlive and Google Earth Pro do long load into assigned workspaces through autostart.
+Issues so far: Kdenlive and Google Earth Pro do not load from autostart.
 
 Addendum 01:
 
