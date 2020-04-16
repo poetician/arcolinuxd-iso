@@ -21,3 +21,5 @@ Addendum 02:
 Variety and Feh not working. Parcellite installed and also unavailable since there is no tray implemented.
 
 Addendum 03: Feh working when files in Download directory, but not /usr/share/...
+
+Addendum 04: Dmenu working with MOD+F12. Since workspaces up to 22 use keybinds that can be re-assigned, immediately some Arco standard bindings can be assigned, and will be.
