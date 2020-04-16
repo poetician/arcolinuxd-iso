@@ -27,3 +27,5 @@ Addendum 04: Dmenu working with MOD+F12. Since workspaces up to 22 use keybinds 
 Addendum 05: Capable of taking screenshots from the script in terminal, but not from keybind. Picom might be the culprit for breaking the config. Many lines commented out to get back in.
 
 Addendum 06: Breakthrough - the bar is functional. Next is to colorize it. Does not show CPU temp, but that's my system. Not reading packages or upgrades (yet). RAM and Kernel displayed. Feh is working again. I corrected the typo behind that.
+
+Addendum 07: Borked when changing keybindings from Spectrwm defaults to ArcoLinux defaults.
