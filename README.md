@@ -24,4 +24,4 @@ Addendum 03: Feh working when files in Download directory, but not /usr/share/..
 
 Addendum 04: Dmenu working with MOD+F12. Since workspaces up to 22 use keybinds that can be re-assigned, immediately some Arco standard bindings can be assigned, and will be.
 
-Addendum 05: Capable of taking screenshots from the script in terminal, but not from keybind. Picom might be the culprit for breaking the confict. Many lines commented out to get back in.
+Addendum 05: Capable of taking screenshots from the script in terminal, but not from keybind. Picom might be the culprit for breaking the config. Many lines commented out to get back in.
