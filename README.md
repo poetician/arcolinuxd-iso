@@ -29,3 +29,5 @@ Addendum 05: Capable of taking screenshots from the script in terminal, but not 
 Addendum 06: Breakthrough - the bar is functional. Next is to colorize it. Does not show CPU temp, but that's my system. Not reading packages or upgrades (yet). RAM and Kernel displayed. Feh is working again. I corrected the typo behind that.
 
 Addendum 07: Borked when changing keybindings from Spectrwm defaults to ArcoLinux defaults.
+
+Addendum 08: Something is kicking me back to the login screen. 100% stumped. Nothing moving till this gets resolved.
