@@ -30,4 +30,4 @@ Addendum 06: Breakthrough - the bar is functional. Next is to colorize it. Does 
 
 Addendum 07: Borked when changing keybindings from Spectrwm defaults to ArcoLinux defaults.
 
-Addendum 08: Something is kicking me back to the login screen. 100% stumped. Nothing moving till this gets resolved.
+Addendum 08: Chased down the keybinding(s), sloppy copy paste(s), and glaring oversights that prevented loading. It is not advised to tinker with stock keybindings without explicitly releasing them.
