@@ -12,7 +12,7 @@ Issues so far: Kdenlive and Google Earth Pro do not load from autostart into ass
 
 Dmenu continues to load from CLI but not from the config.
 
-Feh runs from CLI but seems to break the setup in autorun. File permissions a culprit here?
+Feh breaks the config, and Nitrogen only loads manually.
 
 Picom does not load in autorun but does from CLI.
 
@@ -26,4 +26,4 @@ Addendum 03: Breakthrough - the bar is functional. Colorizing it is over my head
 
 Addendum 04: Borked when changing keybindings from Spectrwm defaults to ArcoLinux defaults. Careful with thy keybinds.
 
->> Select your own wallpaper, and roll the dice.
+Addendum 05: Logged in on bare metal dual monitor and ran Spectrwm in VirtualBox.
